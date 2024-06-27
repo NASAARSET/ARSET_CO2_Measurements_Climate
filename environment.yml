@@ -1,0 +1,57 @@
+# execution guidance from commandline/terminal:
+# run the following commands:
+# to install environment: conda env create --file environment.yml
+# to activate environment: conda activate oco-arset-env
+# to deactivate environment: conda deactivate
+# to update environment: conda env update --file environment.yml --name oco-arset-env
+name: oco-arset-env
+channels:
+ - conda-forge
+dependencies:
+ - python>=3.9
+ - nb_conda
+ - numpy
+ - earthaccess
+ - requests
+ - s3fs
+ - xarray
+ - netCDF4
+ - h5netcdf
+ - pandas
+ - pathlib
+ - matplotlib
+ - plotly
+ - scipy
+ - cartopy
+ - imageio
+ - Basemap
+ - pydap
+ - lxml
+ - html5lib
+ - geopy
+ - IPython
+ - bs4
+ - numpy
+ - pip
+ - pip:
+ # works for regular pip packages
+   - ipywidgets
+   - notebook
+   - jupyterlab
+
+# For a complete list of Python 3.x standard libaries, see: https://docs.python.org/3/library/index.html
+# Python 3.x standard library dependencies used in OCO-2/OCO-3 ARSET notebooks:
+# - jupyter
+# - contextlib
+# - datetime
+# - optparse
+# - time
+# - datetime
+# - warnings
+# - gc
+# - sys
+# - urllib
+# - getpass
+# - netrc
+# - os
+# - re
