@@ -20,8 +20,8 @@ To learn more about this ARSET training course, please go to: **[https://applied
    -> Run the following from your commandline: **conda activate oco-arset-env**
    
    
-## Tutorial Summary
-| Tutorial Title/Summary | Link        |
+## Training Notebooks
+| Notebook Summary | Link        |
 |------------------------|-------------|
 | ARSET OCO-2 Training Notebook using 'earthaccess' library with Integrated netCDF-4 Data Download, Monthly Averaging, Monthly Average Difference Comparison, Plotting, and Exported Image Files | **[Notebook Link](https://github.com/NASAARSET/ARSET_CO2_Measurements_Climate/blob/main/arset-oco-earthaccess-download-analysis-2024-test-query-download-monthly-ave-compare-visualize-export.ipynb)** |
 | ARSET CMS FLux Training Notebook using 'earthaccess' library with Integrated netCDF-4 Data Download, Monthly Plotting, Monthly Average Difference Comparison, and Exported Image Files. | **[Notebook Link](https://github.com/NASAARSET/ARSET_CO2_Measurements_Climate/blob/main/arset-oco-earthaccess-download-analysis-2024-test-fluxes.ipynb)** | 
