@@ -25,3 +25,5 @@ To learn more about this ARSET training course, please go to: **[https://applied
 |------------------------|-------------|
 | ARSET OCO-2 Training Notebook using 'earthaccess' library with Integrated netCDF-4 Data Download, Monthly Averaging, Monthly Average Difference Comparison, Plotting, and Exported Image Files | **[Notebook Link](https://github.com/NASAARSET/ARSET_CO2_Measurements_Climate/blob/main/arset-oco-earthaccess-download-analysis-2024-test-query-download-monthly-ave-compare-visualize-export.ipynb)** |
 | ARSET CMS FLux Training Notebook using 'earthaccess' library with Integrated netCDF-4 Data Download, Monthly Plotting, Monthly Average Difference Comparison, and Exported Image Files. | **[Notebook Link](https://github.com/NASAARSET/ARSET_CO2_Measurements_Climate/blob/main/arset-oco-earthaccess-download-analysis-2024-test-fluxes.ipynb)** | 
+ARSET OCO-3 data map and plots using OpenDAP and XCO2 variability in Select Urban Areas | **[Notebook Link](https://github.com/NASAARSET/ARSET_CO2_Measurements_Climate/blob/main/ARSET%20OCO-3%20data%20map%20and%20plots%20using%20OPeNDAP%20and%20XCO2%20variability%20in%20Urban%20areas.ipynb)** | 
+
